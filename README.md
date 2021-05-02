@@ -1,4 +1,4 @@
-# The-Tic-Tac Toe Game with React App
+# The Tic-Tac-Toe Game with React App
 This is my first experience in developing applications with React. I used create-react-app to build this application.
 
 ## About Tic-Tac-Toe 
