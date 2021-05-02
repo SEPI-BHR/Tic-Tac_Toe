@@ -24,7 +24,7 @@ This installs the required dependencies
 ```
 $ npm start
 ```
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Game Design
 - I have used material-ui and css to design the UI part of this project.
