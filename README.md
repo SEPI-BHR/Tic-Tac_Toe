@@ -6,7 +6,7 @@ Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns 
 > get more information from: https://en.wikipedia.org/wiki/Tic-tac-toe
 
 ## About This App
-![](Game's_image)
+![](Game's_image.jpg)
 
 
 
